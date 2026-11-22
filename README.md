@@ -1,1 +1,1 @@
-# frontend_vinilos
+# frontend-vinyl
